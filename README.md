@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @samuelvazcal, a Mexican engineer who maybe looks like a late starter in the IT world, but I'm a real enthusiast of the programming world.
-- 👀 I’m interested in Java programming, SQL, and JavaScript. Every day I want to be a better Full Stack developer
-- 🌱 I’m currently learning about Java 8 (mastering streams & lambdas), Linux and JavaScript
-- 💞️ I’m looking to collaborate on interesting Java proyects
+- 👋 Hi, I’m @samuelvazcal, a Mexican engineer who maybe looks like a late starter in the IT industry, but trust me. I'm a real enthusiast of the programming world
+- 🤓 I have plenty of background in software development (professional, academic, and personal projects) but it's never enough and I want to learn and shared even more
+- 👀 I’m interested in Java programming, algorithms, relational databases, Javascript, and now cloud computing sounds awesome for me too. Every day is a new opportunity to be a better developer.
+- 🌱 Currently mastering Java 8, MySQL, Linux, and Javascript. Daily learning is always an option.
+- 💞️ Learning while working  with the best is priceless
 - 📫 How to reach me, just go to: https://www.linkedin.com/in/samuel-vazquez-calvario/ and ping me 👍
 
 <!---
